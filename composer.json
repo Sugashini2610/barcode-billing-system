@@ -2,3 +2,7 @@
   "name": "Sugashini2610/barcode-billing-system",
   "require": {}
 }
+action "Run tests" {
+  uses = "franzliedke/gh-action-php@0.3.0"
+  runs = "php8.1 vendor/bin/phpunit"
+}
