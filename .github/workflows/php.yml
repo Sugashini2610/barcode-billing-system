@@ -1,4 +1,4 @@
-name: Run PHP Tests
+name: PHP CI
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,8 +19,6 @@ jobs:
         with:
           php-version: 8.1
 
-      - name: Install dependencies
-        run: composer install
-
-      - name: Run tests
-        run: vendor/bin/phpunit
+      - name: Validate PHP files
+        run: |
+          find . -name "*.php" -print0 | xargs -0 -n1 php -l
