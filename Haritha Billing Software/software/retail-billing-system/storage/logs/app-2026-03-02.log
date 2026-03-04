@@ -1,0 +1,16 @@
+[02/03/2026 03:17:32] [DEBUG] storeLabel received name=A4 Bundle barcode=1517162019195
+[02/03/2026 03:28:21] [ERROR] appendRow FAILED for sheet 'Products': []
+[02/03/2026 03:28:32] [ERROR] appendRow FAILED for sheet 'Products': []
+[02/03/2026 03:29:03] [ERROR] appendRow FAILED for sheet 'Products': []
+[02/03/2026 03:40:32] [ERROR] appendRow FAILED for sheet 'Products': Requested entity was not found.
+[02/03/2026 03:40:34] [ERROR] appendRow FAILED for sheet 'Products': Requested entity was not found.
+[02/03/2026 03:40:49] [ERROR] appendRow FAILED for sheet 'Products': Requested entity was not found.
+[02/03/2026 03:40:50] [ERROR] appendRow FAILED for sheet 'Products': Requested entity was not found.
+[02/03/2026 03:40:51] [ERROR] appendRow FAILED for sheet 'Stock_Log': Requested entity was not found.
+[02/03/2026 03:40:52] [ERROR] appendRow FAILED for sheet 'Products': Requested entity was not found.
+[02/03/2026 03:40:56] [ERROR] appendRow FAILED for sheet 'Products': Requested entity was not found.
+[02/03/2026 03:41:26] [ERROR] appendRow FAILED for sheet 'Products': Requested entity was not found.
+[02/03/2026 03:41:27] [ERROR] appendRow FAILED for sheet 'Bills': Requested entity was not found.
+[02/03/2026 03:41:28] [ERROR] appendRow FAILED for sheet 'Products': Requested entity was not found.
+[02/03/2026 03:41:29] [ERROR] appendRow FAILED for sheet 'Products': Requested entity was not found.
+[02/03/2026 03:41:30] [ERROR] appendRow FAILED for sheet 'Stock_Log': Requested entity was not found.
